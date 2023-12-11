@@ -1,2 +1,2 @@
-# Ikigai_Assignments
-Full Stack Classes Assignments 
+# IKIGAI_Assignment
+React App
